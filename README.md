@@ -10,7 +10,7 @@ Här kommer aktuell information att uppdateras från vecka till vecka.
 
 Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa 
 :----:|-----------|-----------|----------------
-[34](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/src/v34) | **INTROVECKA**  | Introduktion till Kursen | [Installera Github](https://ntigbg.github.io/Github-Setup/)
+[34](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v34) | **INTROVECKA**  | Introduktion till Kursen | [Installera Github](https://ntigbg.github.io/Github-Setup/)
 [35](#grovplanering) | Introduktion till [GitHub](https://github.com) | Laboration GitHub | [Installera Eclipse](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/oxygen/R2/eclipse-inst-win64.exe)
 [36](#grovplanering) | Introduktion till Java & Eclipse | Laboration GitHub, Java & Eclipse | [Läxa GitHub](#grovplanering)
 [37](#grovplanering) | Datatyper | Villkor och Operatorer | Hemuppgift villkor
