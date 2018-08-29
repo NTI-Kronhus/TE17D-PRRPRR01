@@ -51,7 +51,7 @@ mv <filnamn> <sökväg> - Flyttar en fil till angiven sökväg.
 
 
 ## Del 2: Git-kommandon
-#### Denna del kräver att vi inte enbart jobbar i Git Bash men ha alltid konsolen uppe och fö
+#### Denna del kräver att vi inte enbart jobbar i Git Bash men ha alltid konsolen uppe och hoppa mellan fönsterna.
 
 1. Börja med att gå till din profil på github.com (www.github.com/<användarnamn>)
 2. Klicka på den gröna knappen, New repository: <br>
