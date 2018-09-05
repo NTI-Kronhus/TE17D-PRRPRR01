@@ -1,6 +1,6 @@
 # GitHub Laboration
 
-### Den här övningen förutsätter att du gjort första läxan vi har haft ([v.34](https://ntigbg.github.io/Github-Setup/)) och har laddat ner Git till Windows.
+### Den här övningen förutsätter att du gjort första läxan vi har haft ([v.34](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v34/uppgift)) och har laddat ner Git till Windows.
 
 ## Del 1: Linux-kommandon
 1. Börja med att starta Git Bash.
