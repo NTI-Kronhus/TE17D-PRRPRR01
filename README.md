@@ -12,7 +12,7 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 :----:|-----------|-----------|----------------
 [34](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v34) | **INTROVECKA**  | Introduktion till Kursen | [Installera Github](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v34/uppgift)
 [35](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v35) | Introduktion till [GitHub](https://github.com) | [Laboration GitHub](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v35/laboration) | [Installera Eclipse](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/oxygen/R2/eclipse-inst-win64.exe)
-[36](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v36) | Introduktion till Java & Eclipse | Laboration GitHub, Java & Eclipse | [Läxa GitHub](#grovplanering)
+[36](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v36) | Introduktion till Java & Eclipse | [Laboration GitHub, Java & Eclipse](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v36/uppgift) | [Läxa GitHub](#grovplanering)
 [37](#grovplanering) | Datatyper | Villkor och Operatorer | Hemuppgift villkor
 [38](#grovplanering) | Loopar |Introduktion till [Kattis](https://open.kattis.com/problems?order=problem_difficulty) | [Hemuppgift](#grovplanering) från Kattis
 [39](#grovplanering) | Modulus och användningsområden | Jobba med lektionsuppgifter | [Hemuppgift](#grovplanering) från Kattis 
