@@ -1,7 +1,7 @@
 # Hemläxa v36
 
 ### Hemläxa denna vecka är att ni ska skriva ett enkelt program i Java och göra commits till GitHub.
-### Uppgiften ska vara pushad och klar innan Onsdag 12/9. (SENAST Tisdag 11/9 23:59)
+### Uppgiften ska vara pushad och klar innan Torsdag 13/9. (SENAST Onsdag 12/9 23:59)
 
 Instruktioner:
 1. Skapa en ny klass och skapa en main-metod.
