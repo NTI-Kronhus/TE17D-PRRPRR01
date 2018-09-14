@@ -1,7 +1,7 @@
 ## Hemuppgift vecka 37
 
 
-Skapa ett program som läser in 10 stycken heltal och sedan skriver ut följande: <br>
+Skapa ett program som läser in 10 stycken heltal **från konsolen** och sedan skriver ut följande: <br>
 * Det högsta talet.<br>
 * Det lägsta talet. <br>
 * Medelvärdet på alla tal.
