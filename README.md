@@ -1,8 +1,9 @@
 # Aktuell information:
-Här kommer aktuell information att uppdateras från vecka till vecka.
+
+### [Hemuppgift villkor](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v37/uppgift)
 
 # Programmering 1 för TE17D
-#### Skola: NTI Gymnasiet Kronhusgatan
+#### Skola: NTI Kronhus
 #### Lärare: Joakim '[JaoK](https://github.com/jaok)' Ohlsson 
 #### Kurskod: [PRRPRR01](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=1530314731%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DPRR%26courseCode%3DPRRPRR01%26lang%3Dsv%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_PRRPRR01)
 
