@@ -1,4 +1,4 @@
-package loopar;
+package uppgift;
 
 import java.util.Scanner;
 
