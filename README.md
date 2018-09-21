@@ -1,6 +1,6 @@
 # Aktuell information:
 
-### [Hemuppgift villkor](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v37/uppgift)
+### [Hemuppgift Kattis](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v38/uppgift)
 
 # Programmering 1 för TE17D
 #### Skola: NTI Kronhus
@@ -14,8 +14,8 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 [34](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v34) | **INTROVECKA**  | Introduktion till Kursen | [Installera Github](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v34/uppgift)
 [35](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v35) | Introduktion till [GitHub](https://github.com) | [Laboration GitHub](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v35/laboration) | [Installera Eclipse](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/oxygen/R2/eclipse-inst-win64.exe)
 [36](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v36) | Introduktion till Java & Eclipse | Genomgång Datatyper | [Läxa GitHub & Java](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v36/uppgift)
-[37](#grovplanering) | Studiedag | Villkor och Operatorer | [Hemuppgift villkor](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v37/uppgift)
-[38](#grovplanering) | Loopar |Introduktion till [Kattis](https://open.kattis.com/problems?order=problem_difficulty) | [Hemuppgift](#grovplanering) från Kattis
+[37](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v38) | Studiedag | Villkor och Operatorer | [Hemuppgift villkor](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v37/uppgift)
+[38](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v38) | Loopar |Introduktion till [Kattis](https://open.kattis.com/problems?order=problem_difficulty) | [Hemuppgift](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v38/uppgift) från Kattis
 [39](#grovplanering) | Modulus och användningsområden | Jobba med lektionsuppgifter | [Hemuppgift](#grovplanering) från Kattis 
 [40](#grovplanering) | Repetition kontrollstrukturer | **FÖRHÖR** | *Förhöret* 
 [41](#grovplanering) | Introduktion till Metoder | Jobba själv med Metoder | Läxa om Metoder 
