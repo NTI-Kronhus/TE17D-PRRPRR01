@@ -1,6 +1,6 @@
 ## Kattisläxa
 
-#### Denna vecka ska vi bekanta oss med kattis och ni ska göra tre stycken uppgifter tills nästa fredag.
+#### Denna vecka ska vi bekanta oss med kattis och ni ska göra tre stycken uppgifter tills nästa tisdag.
 
 * [R2](https://open.kattis.com/problems/r2)
 
