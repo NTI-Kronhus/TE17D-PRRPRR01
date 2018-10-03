@@ -45,6 +45,15 @@ Operator | Räknesätt
 \+\+ | öka med 1
 \-\- | minska med 1
 
+## Jämförelse operatorer
+Operator | Jämförelse
+---------|-----------
+< | mindre än
+> | större än
+== | lika med
+>= | större än eller lika med
+<= | mindre än eller lika med
+!= | inte lika med
 
 # Kontrollstrukturer:
 ## if
@@ -97,7 +106,7 @@ System.out.println(sum); // sum = 55
 ```
 
 ## while
-En while-loop används vid ett okänt antal iterationer.
+En while-loop används vid ett okänt antal iterationer.<br>
 Syntax:
 ```java
 while(villkor){
@@ -118,7 +127,7 @@ while(!solution){
 
 ## Main-metod
 En main-metod måste finnas i alla klasser som vi vill köra. <br>
-En main-metod skapas enklast genom att skriva main och sedan autofyll.
+En main-metod skapas enklast genom att skriva main och sedan autocomplete.<br>
 Syntax:
 ```java
 public static void main(String[] args){
@@ -127,7 +136,7 @@ public static void main(String[] args){
 ```
 
 ## Scanner
-En Scanner används för att läsa av användar-input från consolen.
+En Scanner används för att läsa av användar-input från consolen.<br>
 Syntax:
 ```java
 Scanner namn = new Scanner(System.in);
@@ -145,7 +154,7 @@ System.out.println("Hello World");
 ```
 
 ## import
-import måste alltid användas när vi använder oss utav bl.a. Scanner och andra avancerade klasser.
+import måste alltid användas när vi använder oss utav bl.a. Scanner och andra avancerade klasser.<br>
 Exempel:
 ```java
 import java.util.Scanner;
