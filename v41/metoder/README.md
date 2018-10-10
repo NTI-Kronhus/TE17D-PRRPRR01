@@ -10,11 +10,11 @@
 5. Skapa en metod ```ageControl(int age)``` som ska kontrollera din ålder och **skriva ut** olika outputs beroende på hur gammal du är.
     * 0-5 -> Småbarn får inte göra något.
     * 6-12 -> Du får spela Fortnite.
-    * 13-15 -> Du är tonåring.
+    * 13-14 -> Du är tonåring.
     * 15-17 -> Du får köra moppe.
-    * 18-20 -> Du får köra bil.
-    * 20-67 -> Du får gå på systemet
-    * 67-100 -> Du är pensionär.
+    * 18-19 -> Du får köra bil.
+    * 20-64 -> Du får gå på systemet
+    * 65-99 -> Du är pensionär.
     * 100+ -> R.I.P
 6. Skapa en metod ```stair(int steps)``` som **skriver ut** en trappa gjord av X med specificerat antal trappsteg .<br>
 Exempel:
