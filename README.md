@@ -2,6 +2,11 @@
 
 ### [Hemuppgift Kattis](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v38/uppgift)
 
+
+# Bra länkar om programmering:
+
+* [Youtube-spellista Java på svenska](https://www.youtube.com/watch?v=EJxmM9JYCwg&list=PLpkWX5olvmC9mkjYhvGbl7VSIMAI7MoFC)
+
 # Programmering 1 för TE17D
 #### Skola: NTI Kronhus
 #### Lärare: Joakim '[JaoK](https://github.com/jaok)' Ohlsson 
