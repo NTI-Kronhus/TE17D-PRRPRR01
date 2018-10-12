@@ -18,7 +18,7 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 [38](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v38) | Loopar |Introduktion till [Kattis](https://open.kattis.com/problems?order=problem_difficulty) | [Hemuppgift](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v38/uppgift) från Kattis
 [39](#grovplanering) | Modulus och användningsområden | Jobba med lektionsuppgifter | [Hemuppgift](#grovplanering) från Kattis 
 [40](#grovplanering) | Repetition kontrollstrukturer | **FÖRHÖR** | *Förhöret* 
-[41](#grovplanering) | Introduktion till Metoder | Jobba själv med Metoder | Läxa om Metoder 
+[41](#grovplanering) | Introduktion till Metoder | Inbyggda metoder i String | Läxa om Metoder 
 [42](#grovplanering) | Presentation av en större uppgift | Mer om Metoder | [Hemuppgift](#grovplanering) från Kattis 
 [43](#grovplanering) | Buffert/ Jobba med uppgiften | Buffert/ Jobba med uppgiften | *null* 
 [44](#grovplanering) | **HÖSTLOV** | **HÖSTLOV** | Lämna in uppgift 
