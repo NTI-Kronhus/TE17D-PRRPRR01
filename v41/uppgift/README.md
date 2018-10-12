@@ -1,6 +1,6 @@
 ## Hemläxa v41
 
-### [Video som förklarar metoder](https://www.youtube.com/watch?v=4vFHOQNoDSc&index=15&list=PLpkWX5olvmC9mkjYhvGbl7VSIMAI7MoFC) Kolla på avsnitt 15-22.
+### [Videor som förklarar metoder](https://www.youtube.com/watch?v=4vFHOQNoDSc&index=15&list=PLpkWX5olvmC9mkjYhvGbl7VSIMAI7MoFC) - kolla på avsnitt 15-22.
 
 1. Skapa en metod ```double volume(double radius)``` som tar in radien på ett klot och ger tillbaka dess volym.
 2. Skapa en metod ```String reverse(Strings str)``` som tar in en ```String``` och returnerar den baklänges.
