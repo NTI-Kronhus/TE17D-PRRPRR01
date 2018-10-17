@@ -11,8 +11,8 @@ public enum GasTable{
 	double heatCapacity;
 
 	GasTable(double d, double hc) {
-		heatCapacity = hc;
-		density = d * 1E3; // 1E3 = 1*10^3
+		density = d;
+		heatCapacity = hc * 1E3; // 1E3 = 1*10^3
 	}
 
 }
