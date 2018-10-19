@@ -8,14 +8,14 @@ public enum SolidTable {
 
 	double density;
 	double heatCapacity;
-	double smeltPoint;
-	double smeltEntalpy;
+	double meltPoint;
+	double meltEntalpy;
 	
 	SolidTable(double d, double hc, double sp, double se) {
 		density = d * 1E3;
 		heatCapacity = hc * 1E3;
-		smeltPoint = sp;
-		smeltEntalpy = se * 1E3;
+		meltPoint = sp;
+		meltEntalpy = se * 1E3;
 	}
 
 	

@@ -9,14 +9,14 @@ public enum FluidTable {
 
 	double density;
 	double heatCapacity;
-	double smeltPoint;
+	double meltPoint;
 	double boilPoint;
 	double steamEntalpy;
 	
 	FluidTable(double d, double hc, double sp, double bp, double se) {
 		density = d * 1E3;
 		heatCapacity = hc * 1E3;
-		smeltPoint = sp;
+		meltPoint = sp;
 		boilPoint = bp;
 		steamEntalpy = se * 1E3;
 	}
