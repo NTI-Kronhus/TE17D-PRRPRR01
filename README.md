@@ -1,6 +1,6 @@
 # Aktuell information:
 
-### [Hemuppgift Kattis](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v38/uppgift)
+### [Uppgift Metoder](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v42/uppgift_metoder)
 
 
 # Bra länkar om programmering:
@@ -26,8 +26,8 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 [41](#grovplanering) | Introduktion till Metoder | Inbyggda metoder i String | Läxa om Metoder 
 [42](#grovplanering) | Presentation av en större uppgift | Mer om Metoder | [Hemuppgift](#grovplanering) från Kattis 
 [43](#grovplanering) | Buffert/ Jobba med uppgiften | Buffert/ Jobba med uppgiften | *null* 
-[44](#grovplanering) | **HÖSTLOV** | **HÖSTLOV** | Lämna in uppgift 
-[45](#grovplanering) | Arrayer | Uppgifter om Arrayer | *null* 
+[44](#grovplanering) | **HÖSTLOV** | **HÖSTLOV** | *null*
+[45](#grovplanering) | Lämna in uppgift  | Arrayer | Uppgift om Arrayer 
 [46](#grovplanering) | Sökning | Sortering | *[Bonusuppgift](#grovplanering) från Kattis* 
 [47](#grovplanering) | Olika sorteringsalgoritmer | Switch statements | *[Bonusuppgift](#grovplanering) från Kattis* 
 [48](#grovplanering) | Repetition på allting hittills | Grupparbete ordlista | *[Bonusuppgift](#grovplanering) från Kattis* 
