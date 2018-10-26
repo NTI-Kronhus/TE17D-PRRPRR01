@@ -126,13 +126,13 @@ heat(SolidTable.IRON,1,2) => 900
 18. En metod som räknar ut hur mycket energi som krävs för att värma en viss volym vätska ett angivet antal grader.
 ```java
 double heat(FluidTable fluid, double volume, double deltaT)
-heat(FluidTable.WATER,998,10) => 41900
+heat(FluidTable.WATER,1,10) => 41900
 ```
 
 19. En metod som räknar ut hur mycket energi som krävs för att värma en viss volym gas ett angivet antal grader.
 ```java
 double heat(GasTable gas, double volume, double deltaT)
-heat(GasTable.AIR,1.29,1) => 1010
+heat(GasTable.AIR,1,1) => 1010
 ```
 
 20. En metod som räknar ut hur högt ett föremål med en viss hastighet uppåt kommer.
