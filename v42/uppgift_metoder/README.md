@@ -164,5 +164,5 @@ Dessa ska besvaras i en separat class med en main-metod.
 ### Viktigt att tänka på:
 * Alla formler och uppgfter bortser från luftmotstånd!
 
-# Inlämmning sker senast onsdag den 7/11 kl 23:59 till joakim.ohlsson@ntig.se
+# Inlämmning sker senast onsdag den 7/11 kl 23:59 till tomas.weis@ntig.se
 
