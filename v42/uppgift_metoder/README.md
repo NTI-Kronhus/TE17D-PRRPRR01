@@ -123,15 +123,15 @@ double heat(SolidTable solid, double mass, double deltaT)
 heat(SolidTable.IRON,1,2) => 900
 ```
 
-18. En metod som räknar ut hur mycket energi som krävs för att värma en viss volym vätska ett angivet antal grader.
+18. En metod som räknar ut hur mycket energi som krävs för att värma en viss massa vätska ett angivet antal grader.
 ```java
-double heat(FluidTable fluid, double volume, double deltaT)
+double heat(FluidTable fluid, double mass, double deltaT)
 heat(FluidTable.WATER,1,10) => 41900
 ```
 
-19. En metod som räknar ut hur mycket energi som krävs för att värma en viss volym gas ett angivet antal grader.
+19. En metod som räknar ut hur mycket energi som krävs för att värma en viss massa gas ett angivet antal grader.
 ```java
-double heat(GasTable gas, double volume, double deltaT)
+double heat(GasTable gas, double mass, double deltaT)
 heat(GasTable.AIR,1,1) => 1010
 ```
 
@@ -149,7 +149,7 @@ Dessa ska besvaras i en separat class med en main-metod.
 3. Hur mycket energi krävs för att värma upp 5 liter vatten?
 4. Hur stort är det totala trycket 100 meter under havsytan?
 5. Tomas som är 180cm lång kastar upp en boll med massan 200 gram i luften så den får starthastigheten 50 km/h. Hur högt kommer bollen?
-6. En bil med massan 740kg accelererar från 0-100 på 4.4 sekunder. Hur stor effekt har bilens motor uppnått?
+6. En bil med massan 740kg accelererar med konstant acceleration från 0-100 på 4.4 sekunder. Hur stor effekt har bilens motor uppnått?
 7. En studsboll släpps från 10 meters höjd och varje gång den nuddar marken tappar den 1% av sin energi. Hur många gånger kommer bollen studsa i marken innan den inte studsar hörge än 0.5 meter?
 8. Formulera en egen uppgift man kan lösa med hjälp av dina metoder.
 9. Formulera en egen uppgift man kan lösa med hjälp av dina metoder.
