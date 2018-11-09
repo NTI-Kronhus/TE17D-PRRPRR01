@@ -8,6 +8,7 @@
 	<classpathentry kind="src" path="v39"/>
 	<classpathentry kind="src" path="v41"/>
 	<classpathentry kind="src" path="v42"/>
+	<classpathentry kind="src" path="v45"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
