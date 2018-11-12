@@ -48,10 +48,10 @@ Operator | Räknesätt
 ## Jämförelse operatorer
 Operator | Jämförelse
 ---------|-----------
-< | mindre än
-> | större än
+< | mindre än 
+\> | större än
 == | lika med
->= | större än eller lika med
+\>= | större än eller lika med
 <= | mindre än eller lika med
 != | inte lika med
 
