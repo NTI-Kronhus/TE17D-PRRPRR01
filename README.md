@@ -25,7 +25,7 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 [40](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v40) | Repetition kontrollstrukturer | **FÖRHÖR** | *Förhöret* 
 [41](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v41) | Introduktion till Metoder | Inbyggda metoder i String | Läxa om Metoder 
 [42](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v42) | Presentation av en större uppgift | Mer om Metoder | [Hemuppgift](#grovplanering) från Kattis 
-[43](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v43) | Buffert/ Jobba med uppgiften | Buffert/ Jobba med uppgiften | *null* 
+43 | Buffert/ Jobba med uppgiften | Buffert/ Jobba med uppgiften | *null* 
 44 | **HÖSTLOV** | **HÖSTLOV** | *null*
 [45](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v45) | Lämna in uppgift  | Arrayer | *null* 
 [46](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v46) | Sökning | Sortering | *[Bonusuppgift](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v46/bonus_uppgift) från Kattis* 
