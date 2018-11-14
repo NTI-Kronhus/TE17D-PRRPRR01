@@ -1,4 +1,4 @@
-package sökning;
+package sökning_genomgång;
 
 public class Sökning {
 	
