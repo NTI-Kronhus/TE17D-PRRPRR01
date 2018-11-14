@@ -8,4 +8,5 @@
 **TIPS:** Skicka in på Kattis och få den godkänd innan ni skickar den till mig.
 
 #### Inskickning via Classroom
-Jag skapar en uppgift på Google Classroom där ni får skicka in era klasser.
+Jag skapar en uppgift på Google Classroom där ni får skicka in era klasser.<br>
+Deadline är ons 21/11 23:59
