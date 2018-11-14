@@ -27,7 +27,7 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 [42](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v42) | Presentation av en större uppgift | Mer om Metoder | [Hemuppgift](#grovplanering) från Kattis 
 [43](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v43) | Buffert/ Jobba med uppgiften | Buffert/ Jobba med uppgiften | *null* 
 44 | **HÖSTLOV** | **HÖSTLOV** | *null*
-[45](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v45) | Lämna in uppgift  | Arrayer | Uppgift om Arrayer 
+[45](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v45) | Lämna in uppgift  | Arrayer | *null* 
 [46](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v46) | Sökning | Sortering | *[Bonusuppgift](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v46/bonus_uppgift) från Kattis* 
 [47](#grovplanering) | Olika sorteringsalgoritmer | Switch statements | *[Bonusuppgift](#grovplanering) från Kattis* 
 [48](#grovplanering) | Repetition på allting hittills | Grupparbete ordlista | *[Bonusuppgift](#grovplanering) från Kattis* 
