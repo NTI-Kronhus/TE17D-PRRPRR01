@@ -21,14 +21,14 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 [36](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v36) | Introduktion till Java & Eclipse | Genomgång Datatyper | [Läxa GitHub & Java](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v36/uppgift)
 [37](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v38) | Studiedag | Villkor och Operatorer | [Hemuppgift villkor](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v37/uppgift)
 [38](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v38) | Loopar |Introduktion till [Kattis](https://open.kattis.com/problems?order=problem_difficulty) | [Hemuppgift](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v38/uppgift) från Kattis
-[39](#grovplanering) | Modulus och användningsområden | Jobba med lektionsuppgifter | [Hemuppgift](#grovplanering) från Kattis 
-[40](#grovplanering) | Repetition kontrollstrukturer | **FÖRHÖR** | *Förhöret* 
-[41](#grovplanering) | Introduktion till Metoder | Inbyggda metoder i String | Läxa om Metoder 
-[42](#grovplanering) | Presentation av en större uppgift | Mer om Metoder | [Hemuppgift](#grovplanering) från Kattis 
-[43](#grovplanering) | Buffert/ Jobba med uppgiften | Buffert/ Jobba med uppgiften | *null* 
-[44](#grovplanering) | **HÖSTLOV** | **HÖSTLOV** | *null*
-[45](#grovplanering) | Lämna in uppgift  | Arrayer | Uppgift om Arrayer 
-[46](#grovplanering) | Sökning | Sortering | *[Bonusuppgift](#grovplanering) från Kattis* 
+[39](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v39) | Modulus och användningsområden | Jobba med lektionsuppgifter | [Hemuppgift](#grovplanering) från Kattis 
+[40](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v40) | Repetition kontrollstrukturer | **FÖRHÖR** | *Förhöret* 
+[41](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v41) | Introduktion till Metoder | Inbyggda metoder i String | Läxa om Metoder 
+[42](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v42) | Presentation av en större uppgift | Mer om Metoder | [Hemuppgift](#grovplanering) från Kattis 
+[43](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v43) | Buffert/ Jobba med uppgiften | Buffert/ Jobba med uppgiften | *null* 
+44 | **HÖSTLOV** | **HÖSTLOV** | *null*
+[45](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v45) | Lämna in uppgift  | Arrayer | Uppgift om Arrayer 
+[46](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v46) | Sökning | Sortering | *[Bonusuppgift](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v46/bonus_uppgift) från Kattis* 
 [47](#grovplanering) | Olika sorteringsalgoritmer | Switch statements | *[Bonusuppgift](#grovplanering) från Kattis* 
 [48](#grovplanering) | Repetition på allting hittills | Grupparbete ordlista | *[Bonusuppgift](#grovplanering) från Kattis* 
 [49](#grovplanering) | Jobba i grupper | Ordförhör/Presentation | *[Bonusuppgift](#grovplanering) från Kattis* 
