@@ -1,6 +1,6 @@
 # Aktuell information:
 
-### [Uppgift Metoder](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v42/uppgift_metoder)
+### [Bonusuppgifter](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v49/bonus/)
 
 
 # Bra länkar om programmering:
