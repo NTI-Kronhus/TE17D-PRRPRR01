@@ -31,7 +31,7 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 [46](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v46) | Sökning | Sortering | *[Bonusuppgift](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v46/bonus_uppgift) från Kattis* 
 [47](#grovplanering) | Olika sorteringsalgoritmer | Jobba med sortering | *[Bonusuppgift](#grovplanering) från Kattis* 
 [48](#grovplanering) | Grupparbete ordlista | Genomgång repetition | *[Bonusuppgift](#grovplanering) från Kattis* 
-[49](#grovplanering) | Ordförhör/Presentation | Individuella samtal | *[Bonusuppgift](#grovplanering) från Kattis* 
+[49](#grovplanering) | Ordförhör/Presentation | Ordförhör/Presentation | *[Bonusuppgift](#grovplanering) från Kattis* 
 [50](#grovplanering) | Övningsuppgifter till provet | Buffert/Plugga till provet | *null* 
 [51](#grovplanering) | Buffert/Plugga till provet | **PROV** | *Provet* 
 [52](#grovplanering) | **JULLOV** | **JULLOV** | *null* 
