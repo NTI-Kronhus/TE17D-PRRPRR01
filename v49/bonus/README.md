@@ -10,5 +10,5 @@
 * [Numbers On a Tree](https://open.kattis.com/problems/numbertree) (2p)
 * [Kitten on a Tree](https://open.kattis.com/problems/kitten) (3p)
 
-Glöm inte att kommentera din kod!<br>
+Glöm inte att kommentera din kod! Ni ska alltid vara redo att förklara er kod om jag kräver det.<br>
 Om man vill ha bonuspoäng så ska man ha skickar in dessa uppgifter till min [mail](mailto:joakim.ohlsson@ntig.se) innan Onsdag 19/12!
