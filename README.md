@@ -28,16 +28,29 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 43 | Buffert/ Jobba med uppgiften | Buffert/ Jobba med uppgiften | *null* 
 44 | **HÖSTLOV** | **HÖSTLOV** | *null*
 [45](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v45) | Lämna in uppgift  | Arrayer | *null* 
-[46](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v46) | Sökning | Sortering | *[Bonusuppgift](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v46/bonus_uppgift) från Kattis* 
-[47](#grovplanering) | Olika sorteringsalgoritmer | Jobba med sortering | *[Bonusuppgift](#grovplanering) från Kattis* 
-[48](#grovplanering) | Grupparbete ordlista | Genomgång repetition | *[Bonusuppgift](#grovplanering) från Kattis* 
-[49](#grovplanering) | Ordförhör/Presentation | Ordförhör/Presentation | *[Bonusuppgift](#grovplanering) från Kattis* 
-[50](#grovplanering) | Övningsuppgifter till provet | Buffert/Plugga till provet | *null* 
-[51](#grovplanering) | Buffert/Plugga till provet | **PROV** | *Provet* 
-[52](#grovplanering) | **JULLOV** | **JULLOV** | *null* 
-[01](#grovplanering) | **JULLOV** | **JULLOV** | *null* 
+[46](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v46) | Sökning | Sortering | [Bonusuppgift](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v49/bonus) från Kattis
+[47](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v47) | Olika sorteringsalgoritmer | Jobba med sortering | [Bonusuppgift](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v49/bonus) från Kattis
+[48](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v48) | Grupparbete ordlista | Genomgång repetition | [Bonusuppgift](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v49/bonus) från Kattis 
+[49](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v49) | Ordförhör/Presentation | Ordförhör/Presentation | [Bonusuppgift](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v49/bonus) från Kattis 
+[50](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v50) | Övningsuppgifter till provet | Betygssamtal/Plugga till provet | [Bonusuppgift](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v49/bonus) från Kattis
+[51](#grovplanering) | Betygssamtal/Plugga till provet | **JULLOV** | [Bonusuppgift](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v49/bonus) från Kattis
+52 | **JULLOV** | **JULLOV** | *null* 
+01 | **JULLOV** | **JULLOV** | *null* 
 [02](#grovplanering) | Repetition | Repetition | *null* 
-[03](#grovplanering) | Plugga till provet | Prov | *null*
+03 | **SUDIEDAG** | **PROVET** | *null*
+[04](#grovplanering) | Algoritmer & Kontrollstrukturer | Lära sig bryta ned problem | Läxa
+[05](#grovplanering) | Övning algoritmer | Från algoritm till kod | Läxa
+[06](#grovplanering) | Att planera större program | Använda sig utav metoder och klasser | Läxa
+07 | **SPORTLOV** | **SPORTLOV** | *null*
+[08](#grovplanering) | Uppgift gissa talet, Planera | Byta planeringar, Koda | *null*
+[09](#grovplanering) | Koda | **Lämna in gissa talet** | Utvärdering av gissa talet
+[10](#grovplanering) | Uppgift Hänga Gubbe | Planera | *null*
+[11](#grovplanering) | Koda | Koda | *null*
+[12](#grovplanering) | Koda | Koda | **Lämna in hänga gubbe**
+[13](#grovplanering) | Utvärdera | Förbättra | *null* 
+[14](#grovplanering) | Introduktion OO | Uppgift OO | Läxa 
+[15](#grovplanering) | Mer om OO | Uppgift OO | *null*
+16 | **PÅSKLOV** | **PÅSKLOV** | *null*
 
 
 # Arbetsområden
@@ -49,7 +62,7 @@ Eleven kommunicerar och använder sig med viss säkerhet utav datavetenskapliga 
 Eleven redogör översiktligt för programmeringens möjligheter och begränsningar samt hur programmering har påverkat och påverkar vardagen.|Eleven redogör utförligt för programmeringens möjligheter och begränsningar samt hur programmering har påverkat och påverkar vardagen.|Eleven redogör utförligt och nyanserat för programmeringens möjligheter och begränsningar samt hur programmering har påverkat och påverkar vardagen.
 Eleven redogör översiktligt för principer för att uppnå god kvalitet vid skapandet av datorprogram.|Eleven redogör utförligt för principer för att uppnå god kvalitet vid skapandet av datorprogram.|Eleven redogör utförligt och nyanserat för principer för att uppnå god kvalitet vid skapandet av datorprogram.
 
-### Vecka 41-51  Programmeringens grunder
+### Vecka 41-03  Programmeringens grunder
 E | C | A  
 --|---|---
 I sin programmering skapar eleven med konsekvent kodningsstil och tydlig namngivning korrekt, strukturerad och enkelt kommenterad källkod med tillfredsställande resultat.|I sin programmering skapar eleven med konsekvent kodningsstil och tydlig namngivning korrekt, strukturerad och noggrant kommenterad källkod med tillfredsställande resultat.|I sin programmering skapar eleven med konsekvent kodningsstil och tydlig namngivning korrekt, strukturerad och noggrant och utförligt kommenterad källkod med gott resultat.
@@ -57,3 +70,6 @@ Elevens färdiga program eller skript är utförda med tillfredsställande resul
 Eleven anpassar med viss säkerhet sin planering av programmeringsuppgiften och utför felsökning av enkla syntaxfel.|Eleven anpassar med viss säkerhet sin planering av programmeringsuppgiften och utför på ett systematiskt sätt felsökning av syntaxfel, körtidsfel och programmeringslogiska fel.|Eleven anpassar med säkerhet sin planering av programmeringsuppgiften och utför på ett systematiskt och effektivt sätt felsökning av syntaxfel, körtidsfel och programmeringslogiska fel.
 Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då med viss säkerhet datavetenskapliga begrepp.|Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då med viss säkerhet datavetenskapliga begrepp.|Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då med säkerhet datavetenskapliga begrepp.
 Eleven redogör översiktligt för principer för att uppnå god kvalitet vid skapandet av datorprogram.|Eleven redogör utförligt för principer för att uppnå god kvalitet vid skapandet av datorprogram.|Eleven redogör utförligt och nyanserat för principer för att uppnå god kvalitet vid skapandet av datorprogram.
+
+### Vecka 04-09 Algoritmer och Planering
+
