@@ -36,7 +36,9 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 [51](#grovplanering) | Buffert/Plugga till provet | **PROV** | *Provet* 
 [52](#grovplanering) | **JULLOV** | **JULLOV** | *null* 
 [01](#grovplanering) | **JULLOV** | **JULLOV** | *null* 
-[02](#grovplanering) | TBA | TBA | TBA 
+[02](#grovplanering) | Repetition | Repetition | *null* 
+[03](#grovplanering) | Plugga till provet | Prov | *null*
+
 
 # Arbetsområden
 
