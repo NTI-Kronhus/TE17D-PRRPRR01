@@ -244,10 +244,6 @@ for (int i = 0; i < arr.length; i++) {
 [Spellista Youtube](https://www.youtube.com/playlist?list=PLvxWhcSU-76fCB-LX6op8WGuCBt52_XS8)
 
 
-# Ord
-
-* LÄNK TILL DOCS KOMMER SNART
-
 # Övrigt
 
 ## Main-metod
