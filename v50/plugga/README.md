@@ -5,6 +5,8 @@
 ## Bonusuppgifter
 * [Länk](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v49/bonus)
 
+## Föreläsning från Chalmers
+* [PowerPoint](https://github.com/NTIGBG/TE17D-PRRPRR01/blob/master/v48/f%C3%B6rel%C3%A4sning/F%C3%B6rel%C3%A4sning%20.pdf)
 
 # Eclipse
 ## Snabbkomandon i Eclipse:
