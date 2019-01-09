@@ -1,6 +1,6 @@
 # Aktuell information:
 
-### [Bonusuppgifter](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v49/bonus/)
+### [Att plugga på till provet](https://github.com/NTIGBG/TE17D-PRRPRR01/tree/master/v50/plugga)
 
 
 # Bra länkar om programmering:
