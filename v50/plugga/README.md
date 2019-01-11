@@ -225,7 +225,7 @@ Exempel:
 int[] arr = {1,2,3,4,5};
 // Skriv ut alla siffror i arr
 for (int i = 0; i < arr.length; i++) {
-    System.out.println(inputs[i]);
+    System.out.println(arr[i]);
 }
 ```
 
