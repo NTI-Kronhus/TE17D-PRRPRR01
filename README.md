@@ -43,8 +43,8 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 [06](#grovplanering) | Att planera större program | Använda sig utav metoder och klasser | Läxa
 07 | **SPORTLOV** | **SPORTLOV** | *null*
 [08](#grovplanering) | Uppgift gissa talet, Planera | Byta planeringar, Koda | *null*
-[09](#grovplanering) | Koda | **Lämna in gissa talet** | Utvärdering av gissa talet
-[10](#grovplanering) | Uppgift Hänga Gubbe | Planera | *null*
+[09](#grovplanering) | Koda | Byt tillbaka/Förbättra | *null*
+[10](#grovplanering) | Utvärdera/Förbättra | **Lämna in gissa talet** | *null*
 [11](#grovplanering) | Koda | Koda | *null*
 [12](#grovplanering) | Koda | Koda | **Lämna in hänga gubbe**
 [13](#grovplanering) | Utvärdera | Förbättra | *null* 
