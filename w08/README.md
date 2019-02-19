@@ -30,19 +30,23 @@
 * OBS! Jag vill INTE att ni testar att köra ert program någon gång alls.
 * OBS! Viktigt är att INTE lägga till eller ta bort funkionallitet du tycker är bra/dålig.
 
-### Byt kod - LÄSA, JÄMFÖRA, FÖRBÄTTRE
+### Byt kod - LÄSA, JÄMFÖRA
 * Ni ska nu byta era färdiga program med varandra.
 * Spara den kod som du fått och skickat separat.
 * Testa ditt program så det fungerar.
 * Om det inte fungerar så får du jämföra med din planering och kolla så att din kompis följt den.
-* Om din kompis gjort fel, notera det och rätta till feler själv.
+* Om din kompis gjort fel, notera det och rätta till felet själv.
+* Om du gjort fel, notera det och rätta till felet själv.
 
-### Utvärdera - SKRIVA
+### Utvärdera - SKRIVA, FÖRBÄTTRA
 * Skriv en varsinn sammanfattning om hur det gick.
 * Fungerade ditt program du fick tillbaka?
 * Fick du tillbaka programmet som du tänkt dig?
 * Var den planering du fick tydlig och lätt att följa?
 * Hur skiljer sig era planeringar från varandra?
 * Hur skiljer sig era program från varandra?
+* Finns det något du hade gjort annorlunda?
+* Finns det förbättringar du upptäckte för ditt program/planering?
+* Finns det förbättringar du upptäckte för din kompis program/planering?
 
 Utvärderingen och allt innan ska vara klart v10.
