@@ -43,10 +43,10 @@
 * Fungerade ditt program du fick tillbaka?
 * Fick du tillbaka programmet som du tänkt dig?
 * Var den planering du fick tydlig och lätt att följa?
-* Hur skiljer sig era planeringar från varandra?
+* Hur skiljer sig era planeringar från varandra i utformning?
 * Hur skiljer sig era program från varandra?
 * Finns det något du hade gjort annorlunda?
-* Finns det förbättringar du upptäckte för ditt program/planering?
-* Finns det förbättringar du upptäckte för din kompis program/planering?
+* Finns det förbättringar du kan identifiera för ditt program/planering?
+* Finns det förbättringar du kan identifiera för din kompis program/planering?
 
 Utvärderingen och allt innan ska vara klart v10.
