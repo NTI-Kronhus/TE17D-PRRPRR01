@@ -44,7 +44,7 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 07 | **SPORTLOV** | **SPORTLOV** | *null*
 [08](#grovplanering) | Uppgift gissa talet, Planera | Byta planeringar, Koda | *null*
 [09](#grovplanering) | Koda/Byt tillbaka | Utvärdera/Förbättra | *null*
-[10](#grovplanering) | Uppgift Hänga Gubbe  | Planera hänga gubbe| **Lämna in gissa talet**
+[10](#grovplanering) | *Friluftsdag*  | Uppgift Hänga gubbe| **Lämna in gissa talet**
 [11](#grovplanering) | Koda | Koda | *null*
 [12](#grovplanering) | Koda | Koda | **Lämna in hänga gubbe**
 [13](#grovplanering) | Utvärdera | Förbättra | *null* 
