@@ -23,4 +23,4 @@
 - Spelet ska själv kunna behandla all felaktig input så att det inte kraschar eller får något errormeddelande.
 - All kod ska vara tydligt kommenterad och/eller dokumenterad med JavaDoc. En inlämning utan kommentarer kommer inte att godkännas!
 
-#### Uppgiften är i högsta grad betygsgrundande och desto bättre kod och mer funktionallitet spelet innehåller desto högre betyg kan du få på uppgiften.
+#### Uppgiften är i högsta grad betygsgrundande och desto bättre kod och mer funktionallitet spelet innehåller desto högre betyg kan du få på uppgiften. Extra bra är det om du använder GitHub för att göra commits och dokumentera din kodutveckling!
