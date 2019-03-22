@@ -45,11 +45,11 @@ Vecka | Lektion 1 | Lektion 2 | Hemuppgift/Läxa
 [08](#grovplanering) | Uppgift gissa talet, Planera | Byta planeringar, Koda | *null*
 [09](#grovplanering) | Koda/Byt tillbaka | Utvärdera/Förbättra | *null*
 [10](#grovplanering) | *Friluftsdag*  | Uppgift Hänga gubbe| **Lämna in gissa talet**
-[11](#grovplanering) | Koda | Koda | *null*
-[12](#grovplanering) | Koda | Koda | **Lämna in hänga gubbe**
-[13](#grovplanering) | Utvärdera | Förbättra | *null* 
-[14](#grovplanering) | Introduktion OO | Uppgift OO | Läxa 
-[15](#grovplanering) | Mer om OO | Uppgift OO | *null*
+[11](#grovplanering) | Koda | Mentorsdag | *null*
+[12](#grovplanering) | Framtidsdag | Koda | *null*
+[13](#grovplanering) | Koda | Koda | **Lämna in hänga gubbe** 
+[14](#grovplanering) | Utvärdera | Förbättra | *null* 
+[15](#grovplanering) | Introduktion OO | Uppgift OO | Läxa 
 16 | **PÅSKLOV** | **PÅSKLOV** | *null*
 
 
