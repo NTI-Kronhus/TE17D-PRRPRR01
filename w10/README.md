@@ -4,7 +4,7 @@
 
 #### En färdig planering ska lämnas in på Tisdag vecka 11!
 
-#### Spelet ska lämnas in tillsammans med den slutgiltiga planeringen Söndag vecka 12!
+#### Spelet ska lämnas in tillsammans med den slutgiltiga planeringen Söndag vecka 13!
 
 ### Planering:
 - Hur ska händelseförloppet gå till?
