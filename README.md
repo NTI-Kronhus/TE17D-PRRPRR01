@@ -4,10 +4,10 @@
 
 ### Uppgiften går ut på att ni ska planera och skapa ett hänga gubbe-spel i Java. <br>
 
-#### En färdig planering ska lämnas in vecka (vecka 15)!
+#### En färdig planering ska lämnas in vecka 15!
 
-#### Spelet ska lämnas in tillsammans med den slutgiltiga planeringen vecka (vecka 17)!
-#### Utvärderingen gör vi separat vecka (vecka 18). <br>*Desto bättre man dokumenterar desto lättare bli utvärderingen att göra och få bra betyg på!*
+#### Spelet ska lämnas in tillsammans med den slutgiltiga planeringen vecka 17!
+#### Utvärderingen gör vi separat vecka 18. <br>*Desto bättre man dokumenterar desto lättare bli utvärderingen att göra och få bra betyg på!*
 
 ### Planering:
 - Hur ska händelseförloppet gå till?
