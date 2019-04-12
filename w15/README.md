@@ -10,9 +10,9 @@ Lagra dessa former i en ny Flag(som ju är en Group) och sedan returnera den.
 
 *\*Formerna ni behöver använda er utav är: Circle, Rectagle, Arc och Polygon.*
 
-* För betyget E ska du välja ut 1 st av flaggorna nedan samt 9 st valfria flaggor att skapa metoder för i din Flag.
+* För betyget E ska du välja ut 2 st av flaggorna nedan samt 9 st valfria flaggor att skapa metoder för i din Flag.
 
-* För betyget C ska du välja ut 3 st av flaggorna nedan samt 13 st valfria flaggor att skapa metoder för i din Flag. Din kod ska också vara snyggt formaterad och kommenterad.
+* För betyget C ska du välja ut 4 st av flaggorna nedan samt 13 st valfria flaggor att skapa metoder för i din Flag. Din kod ska också vara snyggt formaterad och kommenterad.
 
 * För betyget A ska (förutom betyget för C)  du lägga till funktionalitet till en Flag så att man på något sätt kan ange vilka mått flaggan skall ha. 
 <br>(Använd förslagsvis en konstruktor och klass-variabler).
