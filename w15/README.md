@@ -15,7 +15,7 @@ Lagra dessa former i en ny Flag(som ju är en Group) och sedan returnera den.
 * För betyget C ska du välja ut 4 st av flaggorna nedan samt 13 st valfria flaggor att skapa metoder för i din Flag. Din kod ska också vara snyggt formaterad och kommenterad.
 
 * För betyget A ska (förutom betyget för C)  du lägga till funktionalitet till en Flag så att man på något sätt kan ange vilka mått flaggan skall ha. 
-<br>(Använd förslagsvis en konstruktor och klass-variabler).
+(Använd förslagsvis en konstruktor och klass-variabler).
 <br>Det innebär alltså att alla flaggans former på något sätt måste anpassas efter flaggans yttre mått. Flaggorna ska med andra ord vara dynamiska.
 
 * Skapa även ett program som testar alla dina flaggor och visar dem grafiskt!
