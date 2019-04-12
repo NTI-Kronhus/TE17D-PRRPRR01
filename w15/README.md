@@ -33,6 +33,6 @@ Lagra dessa former i en ny Flag(som ju är en Group) och sedan returnera den.
 * [Lista med flaggor](http://www.photius.com/flags/alphabetic_list.html)
 
 
-Kod för att skapa en metod som returnerar en Group med former som motsvarar Seychellernas flagga finns att tillgå [här]().
-Grundläggande kod för en JavaFX applikation finns [här]().
+Kod för att skapa en metod som returnerar en Group med former som motsvarar Seychellernas flagga finns att tillgå [här](https://github.com/NTI-Kronhus/TE17D-PRRPRR01/blob/master/w15/flag/seychells.java).
+Grundläggande kod för en JavaFX applikation finns [här](https://github.com/NTI-Kronhus/TE17D-PRRPRR01/blob/master/w15/javafx/grafik.java).
 Skicka in de tre .java-filerna som en zip via uppgifter på schoolsoft!
