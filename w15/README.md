@@ -35,4 +35,4 @@ Lagra dessa former i en ny Flag(som ju är en Group) och sedan returnera den.
 
 Kod för att skapa en metod som returnerar en Group med former som motsvarar Seychellernas flagga finns att tillgå [här](https://github.com/NTI-Kronhus/TE17D-PRRPRR01/blob/master/w15/flag/seychells.java).
 Grundläggande kod för en JavaFX applikation finns [här](https://github.com/NTI-Kronhus/TE17D-PRRPRR01/blob/master/w15/javafx/grafik.java).
-Committa de tre .java-filerna till er GitHub!
+Committa de tre .java-filerna till er GitHub senast den 5/5!
